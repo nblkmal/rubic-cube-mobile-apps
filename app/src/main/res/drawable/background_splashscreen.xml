@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/peach"/>
+
+    <item>
+        <bitmap
+            android:layout_width="290px"
+            android:layout_height="206px"
+            android:gravity="center"
+
+            android:src="@drawable/cube_logo_only_01_01" />
+    </item>
+</layer-list>
